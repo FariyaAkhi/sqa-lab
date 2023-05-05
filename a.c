@@ -2,7 +2,7 @@
 
 int main(){
 
-int a=20;
+int a=300;
 
 if(a %2 ==0){
     printf("Even");
